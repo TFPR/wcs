@@ -1,0 +1,44 @@
+body {
+  background-image: url(tlo.png);
+}
+
+h1 {
+font-style: italic;
+}
+
+#logo {
+  margin: auto;
+  margin-left: 30%;
+}
+
+#logo h1 {
+  text-align: center;
+}
+
+#menu li {
+  border-style:solid ;
+	height:25px; width: auto;
+	text-align:center;
+	padding:10px 5px 5px 5px;
+	border-radius:25px;
+	border-color:black;
+	font-weight:bolder;
+	transition:.6 ease;
+  display: inline-block;
+}
+
+#menu ul {
+  text-align: center;
+  list-style: none;
+  color: green;
+}
+
+#menu a {
+  text-decoration: none;
+}
+
+footer {
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+}
